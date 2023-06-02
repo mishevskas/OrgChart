@@ -1,7 +1,7 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-Leitung,https://raw.githubusercontent.com/mishevskas/OrgChart/main/Pictures/Leitung.jpg,Corporate,http://example.com/employee/profile,Leitung,"Ceo,tag1,Abteilung,cto",false,Leitung ,O-6066,,
-Abteilung V,https://raw.githubusercontent.com/mishevskas/OrgChart/main/Pictures/Abteilung%20V.jpg,Corporate,http://example.com/employee/profile,Abteilung V,"Ceo,tag1, tag2",false,CTO ,O-6067,O-6066,
-Referat V1,https://raw.githubusercontent.com/mishevskas/OrgChart/main/Pictures/Referat%20V1.jpg,Corporate,http://example.com/employee/profile,Referat V1,"Ceo,tag1, tag2",false,CTO ,O-6068,O-6067,
-Referat V2,https://github.com/mishevskas/OrgChart/blob/main/Pictures/Referat%20V2%20(1).jpg?raw=true,Corporate,http://example.com/employee/profile,Referat V2,"Ceo,tag1, tag2",false,CTO ,O-6069,O-6067,
-Referat V3,https://github.com/mishevskas/OrgChart/blob/main/Pictures/Referat%20V3%20(1).jpg?raw=true,Corporate,http://example.com/employee/profile,Referat V3,"Ceo,tag1, tag2",false,CTO ,O-6070,O-6067,
-Referat V4,https://raw.githubusercontent.com/mishevskas/OrgChart/main/Pictures/Referat%20V4.jpg,Corporate,http://example.com/employee/profile,Referat V4,"Ceo,tag1, tag2",false,CTO ,O-6071,O-6067,
+Leitung,     https://raw.githubusercontent.com/mishevskas/OrgChart/main/Pictures/Leitung.jpg,Corporate,http://example.com/employee/profile,Leitung,"Ceo,tag1,Abteilung,cto",false,Leitung ,O-6066,,
+Abteilung V, https://raw.githubusercontent.com/mishevskas/OrgChart/main/Pictures/Abteilung%20V.jpg,Corporate,http://example.com/employee/profile,Abteilung V,"Ceo,tag1, tag2",false,Abteilung V ,O-6067,O-6066,
+Referat V1,  https://raw.githubusercontent.com/mishevskas/OrgChart/main/Pictures/Referat%20V1.jpg,Corporate,http://example.com/employee/profile,Referat V1,"Ceo,tag1, tag2",false,Referat V1 ,O-6068,O-6067,
+Referat V2,  https://github.com/mishevskas/OrgChart/blob/main/Pictures/Referat%20V2%20(1).jpg?raw=true,Corporate,http://example.com/employee/profile,Referat V2,"Ceo,tag1, tag2",false,Referat V2 ,O-6069,O-6067,
+Referat V3,  https://github.com/mishevskas/OrgChart/blob/main/Pictures/Referat%20V3%20(1).jpg?raw=true,Corporate,http://example.com/employee/profile,Referat V3,"Ceo,tag1, tag2",false,Referat V3,O-6070,O-6067,
+Referat V4,  https://raw.githubusercontent.com/mishevskas/OrgChart/main/Pictures/Referat%20V4.jpg,Corporate,http://example.com/employee/profile,Referat V4,"Ceo,tag1, tag2",false,Referat V4 ,O-6071,O-6067,
