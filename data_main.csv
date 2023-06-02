@@ -1,5 +1,5 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-Leitung,https://raw.githubusercontent.com/mishevskas/OrgChart/blob/main/Pictures/Leitung.jpg,Corporate,http://example.com/employee/profile,Leitung,"Ceo,tag1,Abteilung,cto",false,Leitung ,O-6066,,
+Leitung,https://github.com/mishevskas/OrgChart/blob/main/Pictures/Leitung.jpg?raw=true,Corporate,http://example.com/employee/profile,Leitung,"Ceo,tag1,Abteilung,cto",false,Leitung ,O-6066,,
 Abteilung V,https://raw.githubusercontent.com/mishevskas/OrgChart/main/Pictures/Abteilung%20V.jpg,Corporate,http://example.com/employee/profile,Abteilung V,"Ceo,tag1, tag2",false,CTO ,O-6067,O-6066,
 Referat V1,https://raw.githubusercontent.com/mishevskas/OrgChart/main/Pictures/Referat%20V1.jpg,Corporate,http://example.com/employee/profile,Referat V1,"Ceo,tag1, tag2",false,CTO ,O-6068,O-6067,
 Referat V2,https://github.com/mishevskas/OrgChart/blob/main/Pictures/Referat%20V2%20(1).jpg?raw=true,Corporate,http://example.com/employee/profile,Referat V2,"Ceo,tag1, tag2",false,CTO ,O-6069,O-6067,
